@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there API for CreditEUbank will be coming shortly
 
 <!--
 **CreditEuBank/CreditEuBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
